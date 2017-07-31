@@ -8,7 +8,8 @@
 /Saved/*
 /Binaries/*
 /Build/*
-
+/Build/*
+/Content/Blueprints/Player/Skull/*
 
 *.pydevproject
 .project
